@@ -3,47 +3,52 @@
     {
       "id": "41fd4fd9-95c7-4809-96db-a147d352fdbb",
       "image_url": "https://dummyimage.com/400x400/28200e/000&text=Unbranded Metal Chair",
-      "stock": 8,
+      "stock": 3,
       "productName": "Unbranded Metal Chair",
       "price": 43,
       "productDescription": "Porro tempore autem. Sunt molestias qui quod recusandae nemo quia optio. Nostrum aperiam officiis aut reprehenderit illo.",
-      "favorite": "1"
+      "favorite": "0",
+      "quantity": 1
     },
     {
       "id": "20cc33f1-223b-4cf0-878d-fdedb3f60b56",
       "image_url": "https://dummyimage.com/400x400/2ee9f7/000&text=Handcrafted Metal Towels",
-      "stock": 41,
-      "productName": "Handcrafted Metal Towels",
+      "stock": 4,
+      "productName": "a",
       "price": 98,
       "productDescription": "Rerum minima laudantium blanditiis dolorem dolores ut sint ut quidem. Est doloremque repellat excepturi dolor consequatur rerum qui. Facere ut vel et enim accusamus ipsum dolores aut. Eaque quo ut omnis unde quam error voluptas non iure.",
-      "favorite": 0
+      "favorite": "1",
+      "quantity": 1
     },
     {
       "id": "ab284424-8e46-4a3e-8e13-e179b0ab8bb5",
       "image_url": "https://dummyimage.com/400x400/4de5d5/000&text=Awesome Cotton Soap",
-      "stock": 47,
+      "stock": 2,
       "productName": "Awesome Cotton Soap",
       "price": 66,
       "productDescription": "Molestias sunt quia omnis reprehenderit quia. Iste quia et similique voluptate. Et sit molestias.",
-      "favorite": 0
+      "favorite": "1",
+      "quantity": 1
     },
     {
       "id": "c34287bf-9cb7-40a7-ad07-6534e45a6868",
       "image_url": "https://dummyimage.com/400x400/bc27b5/000&text=Gorgeous Frozen Chair",
-      "stock": 28,
+      "stock": 25,
       "productName": "Gorgeous Frozen Chair",
       "price": 47,
       "productDescription": "Harum modi sunt. Voluptatem ut molestiae consequatur. Ea omnis architecto laboriosam accusantium reiciendis corporis exercitationem ad dolor. Fugit autem placeat voluptas sint aut aliquam sed. Totam fuga nesciunt rerum voluptatibus. Voluptatibus voluptates vel ut et temporibus perferendis laboriosam accusamus.",
-      "favorite": 0
+      "favorite": "1",
+      "quantity": 1
     },
     {
       "id": "41fb4f07-22fd-4ef6-b23c-1ac022b57d11",
       "image_url": "https://dummyimage.com/400x400/f04d95/000&text=Incredible Fresh Ball",
-      "stock": 36,
+      "stock": 29,
       "productName": "Incredible Fresh Ball",
       "price": 71,
       "productDescription": "Eveniet aliquid quisquam eveniet quam. Porro autem dolorem repellat minus occaecati neque non aperiam. Quaerat aut quia dolor illo et. Voluptatibus nemo eos eum.",
-      "favorite": 0
+      "favorite": "1",
+      "quantity": 1
     },
     {
       "id": "b590e450-1e0c-4344-92b8-e1f6cc260587",
@@ -52,16 +57,17 @@
       "productName": "Fantastic Wooden Sausages",
       "price": 1,
       "productDescription": "Ea qui et. Minus minima omnis. Nisi temporibus quam vel doloribus tempore ut possimus repellendus minus. Aut et repudiandae et dolorum ut consectetur. Qui laborum tenetur corporis odit architecto. Rerum neque odit.",
-      "favorite": 0
+      "favorite": "1"
     },
     {
       "id": "1db18081-575b-47b2-b0d8-395314a6b327",
       "image_url": "https://dummyimage.com/400x400/c49fd9/000&text=Gorgeous Rubber Salad",
-      "stock": 44,
+      "stock": 41,
       "productName": "Gorgeous Rubber Salad",
       "price": 62,
       "productDescription": "Officiis facilis dignissimos dolores numquam. Quidem soluta et. Quis est eveniet rem aut aut. Perferendis reprehenderit repellat sunt magni consequuntur quas. Enim aut minus voluptate explicabo neque voluptatem quas.",
-      "favorite": 0
+      "favorite": 0,
+      "quantity": 1
     },
     {
       "id": "7eca1ea3-0bf6-4b00-bb6b-e08ba834dd4e",
@@ -70,7 +76,8 @@
       "productName": "Rustic Soft Table",
       "price": 49,
       "productDescription": "Exercitationem iure quia officiis sed hic illo iusto vero maxime. Fuga iste quia nemo. Officiis nihil veritatis doloremque in praesentium sit autem fugit.",
-      "favorite": 0
+      "favorite": "1",
+      "quantity": 1
     },
     {
       "id": "57483e83-1378-42f3-8d40-e4d75e4ff767",
@@ -8980,7 +8987,7 @@
       "productName": "Practical Steel Car",
       "price": 43,
       "productDescription": "Provident harum dolor consectetur. Nobis et et id est sunt modi. Esse sunt quo vitae temporibus libero consequatur occaecati. Fugiat corrupti qui consequatur quibusdam molestias. Ea dolor perferendis. Possimus aut voluptatem a eaque tenetur dolores culpa est.",
-      "favorite": 0
+      "favorite": "0"
     },
     {
       "id": "363ebd5c-18b0-4550-9753-63f39addfe37",
